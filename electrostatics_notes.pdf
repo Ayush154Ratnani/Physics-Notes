@@ -1,0 +1,308 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [5 0 R 7 0 R 9 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 1900 >>
+stream
+BT
+/F1 12 Tf
+50 780 Td
+(# ELECTROSTATICS - LONG BRIEF ANSWERS \(Class 11\)) Tj
+T*
+() Tj
+T*
+(## Q1. Define linear charge density, surface charge density and volume charge density.) Tj
+T*
+(Write their SI units.) Tj
+T*
+() Tj
+T*
+(When electric charge is distributed over a body, its distribution is described using) Tj
+T*
+(charge densities.) Tj
+T*
+() Tj
+T*
+(1. **Linear Charge Density \(lambda\):**) Tj
+T*
+(   It is defined as the amount of electric charge per unit length of a charged conductor) Tj
+T*
+(   or wire.) Tj
+T*
+(   Formula: lambda = dq/dl) Tj
+T*
+(   SI unit: coulomb per metre \(C m^-1\)) Tj
+T*
+() Tj
+T*
+(2. **Surface Charge Density \(sigma\):**) Tj
+T*
+(   It is the amount of electric charge distributed per unit area of a charged surface.) Tj
+T*
+(   Formula: sigma = dq/dA) Tj
+T*
+(   SI unit: coulomb per square metre \(C m^-2\)) Tj
+T*
+() Tj
+T*
+(3. **Volume Charge Density \(rho\):**) Tj
+T*
+(   It is the amount of electric charge per unit volume of a charged body.) Tj
+T*
+(   Formula: rho = dq/dV) Tj
+T*
+(   SI unit: coulomb per cubic metre \(C m^-3\)) Tj
+T*
+() Tj
+T*
+(## Q2. State and prove Gauss's law of electrostatics.) Tj
+T*
+() Tj
+T*
+(### Statement of Gauss's Law:) Tj
+T*
+(The total electric flux through any closed surface is equal to \(1/epsilon0\) times the) Tj
+T*
+(total charge enclosed by the surface.) Tj
+T*
+() Tj
+T*
+(Integral form: Integral\(E . dS\) over closed surface = Q/epsilon0) Tj
+T*
+() Tj
+T*
+(### Proof:) Tj
+T*
+(Consider a point charge q placed at the centre of a spherical Gaussian surface of radius) Tj
+T*
+(r.) Tj
+T*
+() Tj
+T*
+(Electric field on the surface:) Tj
+T*
+(E = \(1/4*pi*epsilon0\) * \(q/r^2\)) Tj
+T*
+() Tj
+T*
+(Electric flux through the surface:) Tj
+T*
+(Phi = Integral\(E . dS\)) Tj
+T*
+() Tj
+T*
+(Since E is constant over the spherical surface and acts radially outward:) Tj
+T*
+(Phi = E * Integral\(dS\) = E * \(4*pi*r^2\)) Tj
+T*
+() Tj
+T*
+(Substitute E:) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2348 >>
+stream
+BT
+/F1 12 Tf
+50 780 Td
+(Phi = \(1/4*pi*epsilon0\) * \(q/r^2\) * 4*pi*r^2 = q/epsilon0) Tj
+T*
+() Tj
+T*
+(Hence, Integral\(E . dS\) over closed surface = q/epsilon0.) Tj
+T*
+(Therefore, Gauss's law is proved.) Tj
+T*
+() Tj
+T*
+(## Q3. What are electric lines of force? Explain their properties.) Tj
+T*
+() Tj
+T*
+(Electric lines of force are imaginary continuous curves drawn in an electric field such) Tj
+T*
+(that the tangent at any point gives the direction of the electric field at that point.) Tj
+T*
+() Tj
+T*
+(Properties:) Tj
+T*
+(1. Electric field lines originate from positive charges and terminate on negative charges.) Tj
+T*
+(2. No two electric field lines can intersect each other.) Tj
+T*
+(3. The density of field lines represents the strength of the electric field.) Tj
+T*
+(4. Electric field lines are perpendicular to the surface of a conductor.) Tj
+T*
+(5. Electric field lines do not form closed loops.) Tj
+T*
+() Tj
+T*
+(## Q4. Define electric field and electric field intensity. Write its SI unit.) Tj
+T*
+() Tj
+T*
+(Electric field at a point is the region around a charged body in which it exerts a force) Tj
+T*
+(on another charge.) Tj
+T*
+() Tj
+T*
+(Electric field intensity is defined as the force experienced by a unit positive test) Tj
+T*
+(charge placed at that point.) Tj
+T*
+(Formula: E = F/q) Tj
+T*
+(SI unit: newton per coulomb \(N C^-1\) or volt per metre \(V m^-1\)) Tj
+T*
+() Tj
+T*
+(## Q5. State and explain Coulomb's law and law of conservation of charge.) Tj
+T*
+() Tj
+T*
+(### Coulomb's Law:) Tj
+T*
+(The force of attraction or repulsion between two point charges is:) Tj
+T*
+(- directly proportional to the product of their charges) Tj
+T*
+(- inversely proportional to the square of the distance between them) Tj
+T*
+() Tj
+T*
+(Formula: F = \(1/4*pi*epsilon0\) * \(q1*q2/r^2\)) Tj
+T*
+(The force acts along the line joining the two charges.) Tj
+T*
+() Tj
+T*
+(### Law of Conservation of Charge:) Tj
+T*
+(Electric charge can neither be created nor destroyed, but it can be transferred from one) Tj
+T*
+(body to another.) Tj
+T*
+(The total charge of an isolated system remains constant.) Tj
+T*
+() Tj
+T*
+(## Q6. What is an electric dipole? Derive the expression for torque acting on an electric) Tj
+T*
+(dipole placed in a uniform electric field.) Tj
+T*
+() Tj
+T*
+(An electric dipole consists of two equal and opposite charges separated by a small) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1318 >>
+stream
+BT
+/F1 12 Tf
+50 780 Td
+(distance.) Tj
+T*
+(Dipole moment: p = q*\(2a\)) Tj
+T*
+() Tj
+T*
+(When placed in a uniform electric field E, equal and opposite forces act on the two) Tj
+T*
+(charges and form a couple.) Tj
+T*
+(Magnitude of torque: tau = p*E*sin\(theta\)) Tj
+T*
+(where theta is the angle between dipole moment and electric field.) Tj
+T*
+() Tj
+T*
+(The torque tends to align the dipole in the direction of the electric field.) Tj
+T*
+() Tj
+T*
+(## Q7. Derive expression for electric field intensity on the axial line of an electric) Tj
+T*
+(dipole.) Tj
+T*
+() Tj
+T*
+(Consider a dipole with charges +q and -q separated by distance 2a.) Tj
+T*
+(Let point P be at distance r from the centre on the axial line.) Tj
+T*
+() Tj
+T*
+(Net electric field at P:) Tj
+T*
+(E = \(1/4*pi*epsilon0\) * [q/\(r-a\)^2 - q/\(r+a\)^2]) Tj
+T*
+() Tj
+T*
+(For r >> a, after simplification:) Tj
+T*
+(E_axial = \(1/4*pi*epsilon0\) * \(2p/r^3\)) Tj
+T*
+() Tj
+T*
+(Direction of the field is along the dipole moment.) Tj
+T*
+() Tj
+T*
+(## Q8. State Coulomb's law in vector form and explain the terms.) Tj
+T*
+() Tj
+T*
+(Vector form of Coulomb's law:) Tj
+T*
+(F12 = \(1/4*pi*epsilon0\) * \(q1*q2/r^2\) * rhat12) Tj
+T*
+() Tj
+T*
+(Where:) Tj
+T*
+(- rhat12 is the unit vector from charge q1 to q2.) Tj
+T*
+(- The force acts along the line joining the two charges.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000002149 00000 n 
+0000002275 00000 n 
+0000004675 00000 n 
+0000004801 00000 n 
+0000006171 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+6297
+%%EOF
